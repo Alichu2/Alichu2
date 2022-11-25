@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Alichu2
-- 👀 I’m interested in programing, travelling and messing about.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me: https://nauke.com/
+# Hello Traveller!
+You have just found my GitHub profile. This might interest you:
+- My GitHub username is @Alichu2.
+- I'm currently learning how to be a acceptable human.
+- I would like to be CEO of Apple (Tim Cook, please reach out to me through my website).
+- You can read more about me and contact me [here](https://nauke.com/).
 
 <!---
 Alichu2/Alichu2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
